@@ -1,0 +1,39 @@
+h1 {
+    color: darkgreen;
+    text-align: center;  
+    font-family: Arial, Verdana, sans-serif;
+    text-indent: 50px;
+    }
+
+h2 {
+    color: darkolivegreen;
+    text-align: center;  
+    font-family: Arial, Verdana, sans-serif;
+    text-indent: 50px;
+    }
+
+p {
+    text-align: center ; 
+    text-indent: 50px;
+  }
+
+#imagem{
+    display: flex;
+    justify-content: center;
+}
+
+#imagem01{
+    display: flex;
+    justify-content: center;
+}
+
+#imagem02{
+    display: flex;
+    justify-content: center;
+}
+
+body{
+    background-color: floralwhite;
+    border-style: solid;
+    border-width: 5px;
+}
